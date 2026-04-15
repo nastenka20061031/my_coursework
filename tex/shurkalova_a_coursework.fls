@@ -1,114 +1,119 @@
-PWD /workspaces/my_coursework/tex
-INPUT /etc/texmf/web2c/texmf.cnf
-INPUT /usr/share/texmf/web2c/texmf.cnf
-INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
-INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /workspaces/my_coursework/tex/shurkalova_a_coursework.tex
+PWD c:\Users\Admin\Desktop\Курсовая\my_coursework\tex
+INPUT C:\Users\Admin\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\Users\Admin\Desktop\Курсовая\my_coursework\tex\shurkalova_a_coursework.tex
 OUTPUT shurkalova_a_coursework.log
-INPUT /usr/share/texlive/texmf-dist/tex/latex/extsizes/extarticle.cls
-INPUT /usr/share/texlive/texmf-dist/tex/latex/extsizes/extarticle.cls
-INPUT /usr/share/texlive/texmf-dist/tex/latex/extsizes/size14.clo
-INPUT /usr/share/texlive/texmf-dist/tex/latex/extsizes/size14.clo
-INPUT /usr/share/texlive/texmf-dist/tex/latex/extsizes/size14.clo
-INPUT /usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/exscale.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/exscale.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2aenc.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2aenc.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2aenc.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/t2aenc.dfu
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/t2aenc.dfu
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/t2aenc.dfu
-INPUT /usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmr.fd
-INPUT /usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmr.fd
-INPUT /usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmr.fd
-INPUT /home/codespace/.texlive2023/texmf-var/fonts/tfm/lh/lh-t2a/larm1440.tfm
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def
-INPUT /usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
-INPUT /usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
-INPUT /usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
-INPUT /usr/share/texlive/texmf-dist/tex/generic/babel-russian/russianb.ldf
-INPUT /usr/share/texlive/texmf-dist/tex/generic/babel-russian/russianb.ldf
-INPUT /usr/share/texlive/texmf-dist/tex/generic/babel-russian/russianb.ldf
-INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/locale/ru/babel-russian.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/locale/ru/babel-russian.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/locale/ru/babel-russian.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/locale/ru/babel-ru.ini
-INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/locale/en/babel-english.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/locale/en/babel-english.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/locale/en/babel-english.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/locale/en/babel-en.ini
-INPUT /usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/t2/misccorr.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/t2/misccorr.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT ./shurkalova_a_coursework.aux
-INPUT ./shurkalova_a_coursework.aux
+INPUT C:\Program Files\MiKTeX\tex\latex\extsizes\extarticle.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\extsizes\extarticle.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\extsizes\size14.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\extsizes\size14.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\extsizes\size14.clo
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\base\exscale.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\exscale.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\cyrillic\t2aenc.def
+INPUT C:\Program Files\MiKTeX\tex\latex\cyrillic\t2aenc.def
+INPUT C:\Program Files\MiKTeX\tex\latex\cyrillic\t2aenc.def
+INPUT C:\Program Files\MiKTeX\tex\latex\base\t2aenc.dfu
+INPUT C:\Program Files\MiKTeX\tex\latex\base\t2aenc.dfu
+INPUT C:\Program Files\MiKTeX\tex\latex\base\t2aenc.dfu
+INPUT C:\Program Files\MiKTeX\tex\latex\cyrillic\t2acmr.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\cyrillic\t2acmr.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\cyrillic\t2acmr.fd
+INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\larm1440.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\txtbabel.def
+INPUT C:\Program Files\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\en\babel-english.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\en\babel-english.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\en\babel-english.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\ru\babel-russian.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\ru\babel-russian.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\ru\babel-russian.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\en\babel-en.ini
+INPUT C:\Program Files\MiKTeX\tex\latex\babel-english\english.ldf
+INPUT C:\Program Files\MiKTeX\tex\latex\babel-english\english.ldf
+INPUT C:\Program Files\MiKTeX\tex\latex\babel-english\english.ldf
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\ru\babel-ru.ini
+INPUT C:\Program Files\MiKTeX\tex\latex\babel-russian\russianb.ldf
+INPUT C:\Program Files\MiKTeX\tex\latex\babel-russian\russianb.ldf
+INPUT C:\Program Files\MiKTeX\tex\latex\babel-russian\russianb.ldf
+INPUT C:\Program Files\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\t2\misccorr.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\t2\misccorr.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\enumerate.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\enumerate.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\indentfirst.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\indentfirst.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT .\shurkalova_a_coursework.aux
+INPUT .\shurkalova_a_coursework.aux
 INPUT shurkalova_a_coursework.aux
 OUTPUT shurkalova_a_coursework.aux
-INPUT /home/codespace/.texlive2023/texmf-var/fonts/tfm/lh/lh-t2a/larm0800.tfm
-INPUT /home/codespace/.texlive2023/texmf-var/fonts/tfm/lh/lh-t2a/labx1440.tfm
-INPUT /home/codespace/.texlive2023/texmf-var/fonts/tfm/lh/lh-t2a/larm1200.tfm
-INPUT /home/codespace/.texlive2023/texmf-var/fonts/tfm/lh/lh-t2a/labx1200.tfm
-OUTPUT shurkalova_a_coursework.pdf
-INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
-INPUT /usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc
-INPUT /home/codespace/.texlive2023/texmf-var/fonts/tfm/lh/lh-t2a/larm2074.tfm
-INPUT /home/codespace/.texlive2023/texmf-var/fonts/tfm/lh/lh-t2a/labx2074.tfm
-INPUT ./shurkalova_a_coursework.toc
-INPUT ./shurkalova_a_coursework.toc
+INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\larm0800.tfm
+INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\labx1440.tfm
+INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\larm1200.tfm
+INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\labx1200.tfm
+INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\larm2074.tfm
+INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\labx2074.tfm
+INPUT .\shurkalova_a_coursework.toc
+INPUT .\shurkalova_a_coursework.toc
 INPUT shurkalova_a_coursework.toc
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+OUTPUT shurkalova_a_coursework.pdf
+INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsa.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsa.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsa.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 OUTPUT shurkalova_a_coursework.toc
-INPUT /home/codespace/.texlive2023/texmf-var/fonts/tfm/lh/lh-t2a/larm1728.tfm
-INPUT /home/codespace/.texlive2023/texmf-var/fonts/tfm/lh/lh-t2a/labx1728.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\tcrm1440.tfm
+INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\larm1728.tfm
+INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\labx1728.tfm
 INPUT shurkalova_a_coursework.aux
-INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
-INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
-INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
-INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
-INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
-INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb
-INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb
-INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb
-INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfbx2074.pfb
-INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfrm0800.pfb
-INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb
+INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1728.pk
+INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1728.pk
+INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1440.pk
+INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1440.pk
+INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx2074.pk
+INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx2074.pk
+INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1440.pk
+INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1440.pk
+INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1200.pk
+INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1200.pk
+INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1440.pk
+INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1440.pk
+INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm0800.pk
+INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm0800.pk

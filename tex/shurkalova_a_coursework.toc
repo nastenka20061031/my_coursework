@@ -1,17 +1,9 @@
 \babel@toc {russian}{}\relax 
 \contentsline {section}{ВВЕДЕНИЕ}{3}{}%
-\contentsline {section}{\numberline {1.\relax }НАЗВАНИЕ}{4}{}%
-\contentsline {subsection}{\numberline {1.1.\relax }Пункт}{4}{}%
-\contentsline {subsection}{\numberline {1.2.\relax }Пункт}{4}{}%
-\contentsline {section}{\numberline {2.\relax }НАЗВАНИЕ}{5}{}%
-\contentsline {subsection}{\numberline {2.1.\relax }Пункт}{5}{}%
-\contentsline {subsection}{\numberline {2.2.\relax }Пункт}{5}{}%
-\contentsline {section}{\numberline {3.\relax }НАЗВАНИЕ}{6}{}%
-\contentsline {subsection}{\numberline {3.1.\relax }Пункт}{6}{}%
-\contentsline {subsection}{\numberline {3.2.\relax }Пункт}{6}{}%
-\contentsline {section}{\numberline {4.\relax }НАЗВАНИЕ}{7}{}%
-\contentsline {subsection}{\numberline {4.1.\relax }Пункт}{7}{}%
-\contentsline {subsection}{\numberline {4.2.\relax }Пункт}{7}{}%
-\contentsline {section}{ЗАКЛЮЧЕНИЕ}{8}{}%
-\contentsline {section}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ}{9}{}%
-\contentsline {section}{ПРИЛОЖЕНИЯ}{10}{}%
+\contentsline {section}{\numberline {1.\relax }Теоретическая часть}{4}{}%
+\contentsline {subsection}{\numberline {1.1.\relax }Алгоритм K-ближайших соседей}{4}{}%
+\contentsline {subsection}{\numberline {1.2.\relax }Метрики расстояния}{4}{}%
+\contentsline {section}{\numberline {2.\relax }Практическая часть}{5}{}%
+\contentsline {subsection}{\numberline {2.1.\relax }Описание датасета}{5}{}%
+\contentsline {subsection}{\numberline {2.2.\relax }Реализация модели}{5}{}%
+\contentsline {section}{ЗАКЛЮЧЕНИЕ}{6}{}%

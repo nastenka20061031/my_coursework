@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1776753563.25069 "c:/Users/Admin/Desktop/Курсовая/my_coursework/tex/shurkalova_a_coursework.tex" "shurkalova_a_coursework.pdf" "shurkalova_a_coursework" 1776753564.62835 0
+["pdflatex"] 1776873800.70421 "c:/Users/Admin/Desktop/Курсовая/my_coursework/tex/shurkalova_a_coursework.tex" "shurkalova_a_coursework.pdf" "shurkalova_a_coursework" 1776873802.38878 0
   "C:/Program Files/MiKTeX/fonts/tfm/jknappen/ec/tcrm1440.tfm" 993062510 1460 05250f74aea2bdcfe9d6766811b8b7b2 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1233951854 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -10,6 +10,12 @@
   "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmmi12.tfm" 1136765053 1524 4414a8315f39513458b80dfc63bff03a ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmr12.tfm" 1136765053 1288 655e228510b4c2a1abe905c368440826 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmsy10.tfm" 1136765053 1124 6c73e740cf17375f03eec0ee63599741 ""
+  "C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb" 1247596667 30251 6afa5cb1d0204815a708a080681d4674 ""
+  "C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1247596667 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
+  "C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb" 1247596667 36741 0ee9e374ec3e30da87cdfb0ea3575226 ""
+  "C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
+  "C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247596667 32722 d7379af29a190c3f453aba36302ff5a9 ""
+  "C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "C:/Program Files/MiKTeX/tex/generic/babel/babel.sty" 1774370860 147019 947cc37d427f8f58060f95c0a1434153 ""
   "C:/Program Files/MiKTeX/tex/generic/babel/locale/en/babel-en.ini" 1774370864 3936 fef897bbcfe8e9d18c93a3d2d53cf9d8 ""
   "C:/Program Files/MiKTeX/tex/generic/babel/locale/en/babel-english.tex" 1774370864 374 a9c05f002d9437e6de45ac1cc23d56c2 ""
@@ -58,10 +64,10 @@
   "C:/Users/Admin/AppData/Local/MiKTeX/fonts/tfm/lh/lh-t2a/larm1728.tfm" 1775626242 3252 3140686608bdcae603a09a7973fb9e55 ""
   "C:/Users/Admin/AppData/Local/MiKTeX/fonts/tfm/lh/lh-t2a/larm2074.tfm" 1775626234 3264 c29ba0a7d68c56f5a738fbe91d6d9e9d ""
   "C:/Users/Admin/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1775451984 13323822 9642687547d753fe9a22d51bf9113d24 ""
-  "c:/Users/Admin/Desktop/Курсовая/my_coursework/tex/shurkalova_a_coursework.tex" 1776753560 6274 57f873742a8d67a7829abf8205b110a2 ""
-  "shurkalova_a_coursework.aux" 1776753564 1173 07414caf2acebca3493aed353410265a "pdflatex"
-  "shurkalova_a_coursework.tex" 1776753560 6274 57f873742a8d67a7829abf8205b110a2 ""
-  "shurkalova_a_coursework.toc" 1776753564 705 a4048ee51f4204eb9cc558da60896fe3 "pdflatex"
+  "c:/Users/Admin/Desktop/Курсовая/my_coursework/tex/shurkalova_a_coursework.tex" 1776873799 14014 eb44eccc82b873c1eb81987a4ae87884 ""
+  "shurkalova_a_coursework.aux" 1776873801 1328 e05a860dbd179b25c7fba07ccc6e5eb0 "pdflatex"
+  "shurkalova_a_coursework.tex" 1776873799 14014 eb44eccc82b873c1eb81987a4ae87884 ""
+  "shurkalova_a_coursework.toc" 1776873801 819 52641bd9d0cb4416d29b86fb4bd6eed1 "pdflatex"
   (generated)
   "shurkalova_a_coursework.aux"
   "shurkalova_a_coursework.log"

@@ -2,8 +2,9 @@
 \contentsline {section}{ВВЕДЕНИЕ}{3}{}%
 \contentsline {section}{\numberline {1.\relax }Теоретическая часть}{4}{}%
 \contentsline {subsection}{\numberline {1.1.\relax }Алгоритм K-ближайших соседей}{4}{}%
-\contentsline {subsection}{\numberline {1.2.\relax }Метрики расстояния}{4}{}%
-\contentsline {section}{\numberline {2.\relax }Практическая часть}{5}{}%
-\contentsline {subsection}{\numberline {2.1.\relax }Описание датасета}{5}{}%
-\contentsline {subsection}{\numberline {2.2.\relax }Реализация модели}{5}{}%
-\contentsline {section}{ЗАКЛЮЧЕНИЕ}{6}{}%
+\contentsline {subsection}{\numberline {1.2.\relax }Сравнение KNN с алгоритмом K-Means}{5}{}%
+\contentsline {subsection}{\numberline {1.3.\relax }Метрики расстояния}{6}{}%
+\contentsline {section}{\numberline {2.\relax }Практическая часть}{7}{}%
+\contentsline {subsection}{\numberline {2.1.\relax }Описание датасета}{7}{}%
+\contentsline {subsection}{\numberline {2.2.\relax }Реализация модели}{7}{}%
+\contentsline {section}{ЗАКЛЮЧЕНИЕ}{8}{}%

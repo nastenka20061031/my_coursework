@@ -99,14 +99,14 @@ INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 OUTPUT shurkalova_a_coursework.toc
-INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\tcrm1440.tfm
 INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\larm1728.tfm
 INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\labx1728.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\tcrm1440.tfm
 INPUT shurkalova_a_coursework.aux
-INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1728.pk
-INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1728.pk
 INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1440.pk
 INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1440.pk
+INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1728.pk
+INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1728.pk
 INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx2074.pk
 INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx2074.pk
 INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1440.pk

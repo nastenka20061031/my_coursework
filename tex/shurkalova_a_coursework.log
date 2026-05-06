@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.6)  6 MAY 2026 02:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.6)  6 MAY 2026 03:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -338,23 +338,23 @@ Package babel Info: 'russian' activates 'russian' shorthands.
 )
 \openout1 = `shurkalova_a_coursework.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Info: Redefining \th on input line 25.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Info: Redefining \th on input line 23.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -405,7 +405,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \openout3 = `shurkalova_a_coursework.toc'.
 
  [2]
-Overfull \hbox (9.73947pt too wide) in paragraph at lines 104--107
+Overfull \hbox (9.73947pt too wide) in paragraph at lines 100--103
 \T2A/cmr/m/n/14.4 сре-да вза-и-мо-дей-ствия поль-зо-ва-те-лей и ге-не-ра-ция по-ве-ден-че-ских дан-ных. Пред-
  []
 
@@ -414,36 +414,41 @@ Overfull \hbox (9.73947pt too wide) in paragraph at lines 104--107
 LaTeX Warning: Citation `savin2020' on page 4 undefined on input line 159.
 
 [4]
-Overfull \hbox (8.74017pt too wide) in paragraph at lines 191--192
+Overfull \hbox (8.74017pt too wide) in paragraph at lines 195--196
 []\T2A/cmr/bx/n/14.4 Классифицировать поль-зо-ва-те-лей \T2A/cmr/m/n/14.4 --- опре-де-лять, от-но-сит-ся ли поль-
  []
 
 [5]
-Overfull \hbox (12.19626pt too wide) in paragraph at lines 200--201
+Overfull \hbox (12.19626pt too wide) in paragraph at lines 206--207
 []\T2A/cmr/bx/n/14.4 Кластеризация (K-Means) \T2A/cmr/m/n/14.4 при-ме-ня-ет-ся, ко-гда неиз-вест-но, ка-кие груп-
  []
 
+
+Overfull \hbox (46.9616pt too wide) in paragraph at lines 224--227
+[]\T2A/cmr/m/n/14.4 Это рас-сто-я-ние по пря-мой меж-ду дву-мя точ-ка-ми. Для двух то-чек $\OML/cmm/m/it/14.4 A\OT1/cmr/m/n/14.4 (\OML/cmm/m/it/14.4 x[]; x[]; [] ; x[]\OT1/cmr/m/n/14.4 )$
+ []
+
 [6] [7]
-Overfull \hbox (1.39685pt too wide) in paragraph at lines 248--249
+Overfull \hbox (1.39685pt too wide) in paragraph at lines 276--277
 []\T2A/cmr/m/n/14.4 Механизм K-ближайших со-се-дей рас-счи-тан на вы-яв-ле-ние рас-сто-я-ния меж-
  []
 
 
-Overfull \hbox (10.91626pt too wide) in paragraph at lines 257--258
+Overfull \hbox (10.91626pt too wide) in paragraph at lines 285--286
 []\T2A/cmr/m/n/14.4 Для клас-си-фи-ка-ции ра-бо-та-ет пра-ви-ло ѕГо-ло-со-ва-ние боль-шин-ствомї.
  []
 
 [8]
-Overfull \hbox (3.8846pt too wide) in paragraph at lines 276--277
+Overfull \hbox (3.8846pt too wide) in paragraph at lines 306--307
 \T2A/cmr/m/n/14.4 виль-ный вы-бор па-ра-мет-ров мо-жет су-ще-ствен-но ухуд-шить ка-че-ство пред-
  []
 
 
-Overfull \hbox (6.86392pt too wide) in paragraph at lines 278--279
+Overfull \hbox (6.86392pt too wide) in paragraph at lines 308--309
 []\T2A/cmr/bx/n/14.4 Проблема ѕпро-кля-тия раз-мер-но-стиї. \T2A/cmr/m/n/14.4 При боль-шом ко-ли-че-стве при-
  []
 
-[9] [10] (shurkalova_a_coursework.aux)
+[9] [10] [11] [12] (shurkalova_a_coursework.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
@@ -462,9 +467,9 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  57i,6n,65p,945b,263s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1440.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx2074.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1440.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0800.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on shurkalova_a_coursework.pdf (10 pages, 196903 bytes).
+Output written on shurkalova_a_coursework.pdf (12 pages, 200873 bytes).
 PDF statistics:
- 411 PDF objects out of 1000 (max. 8388607)
+ 415 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

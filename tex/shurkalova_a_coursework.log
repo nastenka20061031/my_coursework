@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.6)  6 MAY 2026 04:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.6)  18 MAY 2026 13:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -414,16 +414,11 @@ Overfull \hbox (9.73947pt too wide) in paragraph at lines 100--103
 LaTeX Warning: Citation `savin2020' on page 4 undefined on input line 159.
 
 [4]
-Overfull \hbox (8.74017pt too wide) in paragraph at lines 195--196
-[]\T2A/cmr/bx/n/14.4 Классифицировать поль-зо-ва-те-лей \T2A/cmr/m/n/14.4 --- опре-де-лять, от-но-сит-ся ли поль-
+Overfull \hbox (14.39923pt too wide) in paragraph at lines 171--172
+[]\T2A/cmr/m/n/14.4 Кластер 0 (ак-тив-ные): поль-зу-ют-ся Instagram, TikTok, YouTube по несколь-
  []
 
 [5]
-Overfull \hbox (12.19626pt too wide) in paragraph at lines 206--207
-[]\T2A/cmr/bx/n/14.4 Кластеризация (K-Means) \T2A/cmr/m/n/14.4 при-ме-ня-ет-ся, ко-гда неиз-вест-но, ка-кие груп-
- []
-
-
 Overfull \hbox (46.9616pt too wide) in paragraph at lines 224--227
 []\T2A/cmr/m/n/14.4 Это рас-сто-я-ние по пря-мой меж-ду дву-мя точ-ка-ми. Для двух то-чек $\OML/cmm/m/it/14.4 A\OT1/cmr/m/n/14.4 (\OML/cmm/m/it/14.4 x[]; x[]; [] ; x[]\OT1/cmr/m/n/14.4 )$
  []
@@ -438,37 +433,27 @@ Overfull \hbox (10.91626pt too wide) in paragraph at lines 285--286
 []\T2A/cmr/m/n/14.4 Для клас-си-фи-ка-ции ра-бо-та-ет пра-ви-ло ѕГо-ло-со-ва-ние боль-шин-ствомї.
  []
 
-[8]
-Overfull \hbox (3.8846pt too wide) in paragraph at lines 306--307
-\T2A/cmr/m/n/14.4 виль-ный вы-бор па-ра-мет-ров мо-жет су-ще-ствен-но ухуд-шить ка-че-ство пред-
- []
-
-
-Overfull \hbox (6.86392pt too wide) in paragraph at lines 308--309
-[]\T2A/cmr/bx/n/14.4 Проблема ѕпро-кля-тия раз-мер-но-стиї. \T2A/cmr/m/n/14.4 При боль-шом ко-ли-че-стве при-
- []
-
-[9]
-Overfull \hbox (1.20697pt too wide) in paragraph at lines 350--351
+[8] [9]
+Overfull \hbox (1.20697pt too wide) in paragraph at lines 354--355
 []\T2A/cmr/m/n/14.4 Интерпретируемость ^^V ре-зуль-та-ты кла-сте-ри-за-ции лег-ко ана-ли-зи-ро-вать,
  []
 
 [10]
 
-LaTeX Warning: Citation `vorontsov' on page 11 undefined on input line 379.
+LaTeX Warning: Citation `vorontsov' on page 11 undefined on input line 383.
 
 
-LaTeX Warning: Citation `chubukova2024' on page 11 undefined on input line 383.
+LaTeX Warning: Citation `chubukova2024' on page 11 undefined on input line 388.
 
 
-LaTeX Warning: Citation `chubukova2024' on page 11 undefined on input line 397.
+LaTeX Warning: Citation `chubukova2024' on page 11 undefined on input line 402.
 
 [11]
 
-LaTeX Warning: Citation `chubukova2024' on page 12 undefined on input line 403.
+LaTeX Warning: Citation `chubukova2024' on page 12 undefined on input line 409.
 
 
-LaTeX Warning: Citation `vorontsov' on page 12 undefined on input line 413.
+LaTeX Warning: Citation `vorontsov' on page 12 undefined on input line 420.
 
 [12] [13] [14] (shurkalova_a_coursework.aux)
  ***********
@@ -489,9 +474,9 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  57i,6n,65p,945b,263s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1440.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx2074.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1440.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0800.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on shurkalova_a_coursework.pdf (14 pages, 211917 bytes).
+Output written on shurkalova_a_coursework.pdf (14 pages, 205654 bytes).
 PDF statistics:
- 440 PDF objects out of 1000 (max. 8388607)
+ 422 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

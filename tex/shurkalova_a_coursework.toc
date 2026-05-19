@@ -2,7 +2,7 @@
 \contentsline {section}{ВВЕДЕНИЕ}{3}{}%
 \contentsline {section}{\numberline {1.\relax }Теоретическая часть}{4}{}%
 \contentsline {subsection}{\numberline {1.1.\relax }Анализ поведения пользователей в социальных сетях}{4}{}%
-\contentsline {subsection}{\numberline {1.2.\relax }Метрики расстояния}{6}{}%
+\contentsline {subsection}{\numberline {1.2.\relax }Метрики расстояния}{7}{}%
 \contentsline {subsection}{\numberline {1.3.\relax }Алгоритм K-ближайших соседей}{8}{}%
 \contentsline {subsection}{\numberline {1.4.\relax }Алгоритм K-Means}{9}{}%
 \contentsline {subsection}{\numberline {1.5.\relax }Методы оценки качества моделей}{11}{}%

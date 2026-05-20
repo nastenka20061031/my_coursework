@@ -2,17 +2,17 @@
 \contentsline {section}{ВВЕДЕНИЕ}{3}{}%
 \contentsline {section}{\numberline {1.\relax }Общая характеристика алгоритмов и методов машинного обучения}{4}{}%
 \contentsline {subsection}{\numberline {1.1.\relax }Описание задачи и этапов её решения}{4}{}%
-\contentsline {subsection}{\numberline {1.2.\relax }Описание моделей машинного обучения, используемых в работе}{4}{}%
-\contentsline {subsubsection}{\numberline {1.2.1.\relax }Анализ поведения пользователей в социальных сетях}{4}{}%
+\contentsline {subsection}{\numberline {1.2.\relax }Описание моделей машинного обучения, используемых в работе}{5}{}%
+\contentsline {subsubsection}{\numberline {1.2.1.\relax }Анализ поведения пользователей в социальных сетях}{5}{}%
 \contentsline {subsubsection}{\numberline {1.2.2.\relax }Метрики расстояния}{7}{}%
 \contentsline {subsubsection}{\numberline {1.2.3.\relax }Алгоритм K-ближайших соседей}{8}{}%
-\contentsline {subsubsection}{\numberline {1.2.4.\relax }Алгоритм K-Means}{9}{}%
-\contentsline {subsubsection}{\numberline {1.2.5.\relax }Методы оценки качества моделей}{11}{}%
+\contentsline {subsubsection}{\numberline {1.2.4.\relax }Алгоритм K-Means}{10}{}%
+\contentsline {subsubsection}{\numberline {1.2.5.\relax }Методы оценки качества моделей}{12}{}%
 \contentsline {subsection}{\numberline {1.3.\relax }Краткая информация об инструментах разработки}{13}{}%
-\contentsline {subsection}{\numberline {1.4.\relax }Описание источников данных}{13}{}%
-\contentsline {section}{\numberline {2.\relax }Построение моделей машинного обучения и анализ результатов}{13}{}%
-\contentsline {subsection}{\numberline {2.1.\relax }Получение данных для построения моделей}{13}{}%
-\contentsline {subsection}{\numberline {2.2.\relax }Предобработка и исследовательский анализ данных}{13}{}%
-\contentsline {subsection}{\numberline {2.3.\relax }Построение моделей}{13}{}%
-\contentsline {subsection}{\numberline {2.4.\relax }Сравнительный анализ и оценка качества работы моделей}{13}{}%
-\contentsline {section}{ЗАКЛЮЧЕНИЕ}{14}{}%
+\contentsline {subsection}{\numberline {1.4.\relax }Описание источников данных}{14}{}%
+\contentsline {section}{\numberline {2.\relax }Построение моделей машинного обучения и анализ результатов}{14}{}%
+\contentsline {subsection}{\numberline {2.1.\relax }Получение данных для построения моделей}{14}{}%
+\contentsline {subsection}{\numberline {2.2.\relax }Предобработка и исследовательский анализ данных}{14}{}%
+\contentsline {subsection}{\numberline {2.3.\relax }Построение моделей}{14}{}%
+\contentsline {subsection}{\numberline {2.4.\relax }Сравнительный анализ и оценка качества работы моделей}{15}{}%
+\contentsline {section}{ЗАКЛЮЧЕНИЕ}{16}{}%

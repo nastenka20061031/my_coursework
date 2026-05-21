@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1779378699.48841 "c:/Users/Admin/Desktop/Курсовая/my_coursework/tex/shurkalova_a_coursework.tex" "shurkalova_a_coursework.pdf" "shurkalova_a_coursework" 1779378700.75334 0
+["pdflatex"] 1779387633.47064 "c:/Users/Admin/Desktop/Курсовая/my_coursework/tex/shurkalova_a_coursework.tex" "shurkalova_a_coursework.pdf" "shurkalova_a_coursework" 1779387634.47128 0
   "C:/Program Files/MiKTeX/fonts/tfm/jknappen/ec/tcrm1440.tfm" 993062510 1460 05250f74aea2bdcfe9d6766811b8b7b2 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1233951854 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -55,6 +55,7 @@
   "C:/Users/Admin/AppData/Local/MiKTeX/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx2074.pk" 1775626253 54480 3d58cd26c49a665972f558a86704b081 ""
   "C:/Users/Admin/AppData/Local/MiKTeX/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm0800.pk" 1775626261 18244 63053acb9e1ceb41ab7c14b3e2d9b4b9 ""
   "C:/Users/Admin/AppData/Local/MiKTeX/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1440.pk" 1775453855 32600 e76f0a25e3c0e318ef8d12cbbf9522aa ""
+  "C:/Users/Admin/AppData/Local/MiKTeX/fonts/pk/ljfour/lh/lh-t2a/dpi600/lati1440.pk" 1777810961 47032 113022f2dcba9f61634faa731c605f88 ""
   "C:/Users/Admin/AppData/Local/MiKTeX/fonts/pk/ljfour/lh/lh-t2a/dpi600/latt1440.pk" 1779378694 27384 d29cc923d26e44047764c55adef07b18 ""
   "C:/Users/Admin/AppData/Local/MiKTeX/fonts/tfm/lh/lh-t2a/labx1200.tfm" 1775626229 3308 eee81981029f67083258db36df06e523 ""
   "C:/Users/Admin/AppData/Local/MiKTeX/fonts/tfm/lh/lh-t2a/labx1440.tfm" 1775453849 3304 6a543c07045572737981351171e0505e ""
@@ -65,12 +66,13 @@
   "C:/Users/Admin/AppData/Local/MiKTeX/fonts/tfm/lh/lh-t2a/larm1440.tfm" 1775453794 3256 3daaa33cf35cf3f354983aa3214ecd7f ""
   "C:/Users/Admin/AppData/Local/MiKTeX/fonts/tfm/lh/lh-t2a/larm1728.tfm" 1775626242 3252 3140686608bdcae603a09a7973fb9e55 ""
   "C:/Users/Admin/AppData/Local/MiKTeX/fonts/tfm/lh/lh-t2a/larm2074.tfm" 1775626234 3264 c29ba0a7d68c56f5a738fbe91d6d9e9d ""
+  "C:/Users/Admin/AppData/Local/MiKTeX/fonts/tfm/lh/lh-t2a/lati1440.tfm" 1777810955 3528 460e6901416a816cf4afa844b5d54101 ""
   "C:/Users/Admin/AppData/Local/MiKTeX/fonts/tfm/lh/lh-t2a/latt1440.tfm" 1779378690 1272 e3abe42d6bdbd8626fffa22fcb43f669 ""
   "C:/Users/Admin/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1775451984 13323822 9642687547d753fe9a22d51bf9113d24 ""
-  "c:/Users/Admin/Desktop/Курсовая/my_coursework/tex/shurkalova_a_coursework.tex" 1779378678 53768 9d3909a247ee6ee551b556833a63f46d ""
-  "shurkalova_a_coursework.aux" 1779378700 3306 6392b4ac40face4815d0a34822e9c1e1 "pdflatex"
-  "shurkalova_a_coursework.tex" 1779378678 53768 9d3909a247ee6ee551b556833a63f46d ""
-  "shurkalova_a_coursework.toc" 1779378700 2149 0823ab37471fbf99502e18039440f36d "pdflatex"
+  "c:/Users/Admin/Desktop/Курсовая/my_coursework/tex/shurkalova_a_coursework.tex" 1779387627 49882 d6460720f2fcbd04d49d064886c07f53 ""
+  "shurkalova_a_coursework.aux" 1779387634 3306 04bf860048a1bc66b82b6bda13501008 "pdflatex"
+  "shurkalova_a_coursework.tex" 1779387627 49882 d6460720f2fcbd04d49d064886c07f53 ""
+  "shurkalova_a_coursework.toc" 1779387634 2149 5780c1592f638ea634e4fd790edf516d "pdflatex"
   (generated)
   "shurkalova_a_coursework.aux"
   "shurkalova_a_coursework.log"

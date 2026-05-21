@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.6)  20 MAY 2026 18:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.6)  21 MAY 2026 18:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -439,33 +439,52 @@ Overfull \hbox (1.20697pt too wide) in paragraph at lines 373--374
  []
 
 [11] [12] [13]
-Overfull \hbox (1.57489pt too wide) in paragraph at lines 492--492
+LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 484.
+ (C:\Program Files\MiKTeX\tex/latex/cyrillic\t2acmtt.fd
+File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+) [14]
+Overfull \hbox (1.57489pt too wide) in paragraph at lines 508--508
 []\T2A/cmr/bx/n/17.28 Сравнительный ана-лиз и оцен-ка ка-че-ства ра-бо-ты мо-
  []
 
-[14] [15] [16]
-Underfull \hbox (badness 10000) in paragraph at lines 513--514
+
+Overfull \hbox (25.81332pt too wide) in paragraph at lines 509--510
+[]\T2A/cmr/m/n/14.4 Для оцен-ки ка-че-ства кла-сте-ри-за-ции был ис-поль-зо-ван ме-тод си-лу-эта (silhouette
+ []
+
+
+Overfull \hbox (2.92015pt too wide) in paragraph at lines 511--512
+[]\T2A/cmr/m/n/14.4 На ви-зу-а-ли-за-ции кла-сте-ров (при по-ни-же-нии раз-мер-но-сти с по-мо-щью PCA)
+ []
+
+[15]
+Overfull \hbox (16.95499pt too wide) in paragraph at lines 519--520
+[]\T2A/cmr/m/n/14.4 Таким об-ра-зом, мо-дель K-Means успеш-но раз-де-ли-ла поль-зо-ва-те-лей Instagram
+ []
+
+[16] [17]
+Underfull \hbox (badness 10000) in paragraph at lines 557--558
 []\T2A/cmr/m/n/14.4 Воронцов К.В. Ма-шин-ное обу-че-ние (курс лек-ций). ^^V URL:
  []
 
-[17] (shurkalova_a_coursework.aux)
+[18] (shurkalova_a_coursework.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 3871 strings out of 467866
- 64390 string characters out of 5428381
+ 3890 strings out of 467866
+ 65019 string characters out of 5428381
  471380 words of memory out of 5000000
- 32726 multiletter control sequences out of 15000+600000
- 638836 words of font info for 62 fonts, out of 8000000 for 9000
+ 32742 multiletter control sequences out of 15000+600000
+ 638272 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,6n,65p,945b,268s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati1440.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1440.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx2074.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1440.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0800.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on shurkalova_a_coursework.pdf (17 pages, 230997 bytes).
+ <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\latt1440.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1440.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx2074.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1440.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0800.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on shurkalova_a_coursework.pdf (18 pages, 238573 bytes).
 PDF statistics:
- 482 PDF objects out of 1000 (max. 8388607)
+ 498 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

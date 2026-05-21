@@ -12,7 +12,7 @@
 \contentsline {subsection}{\numberline {1.4.\relax }Описание источников данных}{14}{}%
 \contentsline {section}{\numberline {2.\relax }Построение моделей машинного обучения и анализ результатов}{14}{}%
 \contentsline {subsection}{\numberline {2.1.\relax }Получение данных для построения моделей}{14}{}%
-\contentsline {subsection}{\numberline {2.2.\relax }Предобработка и исследовательский анализ данных}{15}{}%
+\contentsline {subsection}{\numberline {2.2.\relax }Предобработка и исследовательский анализ данных}{14}{}%
 \contentsline {subsection}{\numberline {2.3.\relax }Построение моделей}{15}{}%
 \contentsline {subsection}{\numberline {2.4.\relax }Сравнительный анализ и оценка качества работы моделей}{15}{}%
-\contentsline {section}{ЗАКЛЮЧЕНИЕ}{17}{}%
+\contentsline {section}{ЗАКЛЮЧЕНИЕ}{16}{}%

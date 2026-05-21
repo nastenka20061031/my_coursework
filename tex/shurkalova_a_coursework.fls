@@ -65,12 +65,32 @@ INPUT C:\Program Files\MiKTeX\tex\latex\tools\enumerate.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\tools\enumerate.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\tools\indentfirst.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\tools\indentfirst.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\pdftex.def
 INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT .\shurkalova_a_coursework.aux
 INPUT .\shurkalova_a_coursework.aux
 INPUT shurkalova_a_coursework.aux
 OUTPUT shurkalova_a_coursework.aux
+INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\larm0800.tfm
 INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\labx1440.tfm
 INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\larm1200.tfm
@@ -111,6 +131,20 @@ INPUT C:\Program Files\MiKTeX\tex\latex\cyrillic\t2acmtt.fd
 INPUT C:\Program Files\MiKTeX\tex\latex\cyrillic\t2acmtt.fd
 INPUT C:\Program Files\MiKTeX\tex\latex\cyrillic\t2acmtt.fd
 INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\latt1440.tfm
+INPUT .\elbow.png
+INPUT .\elbow.png
+INPUT .\elbow.png
+INPUT .\elbow.png
+INPUT .\elbow.png
+INPUT .\elbow.png
+INPUT .\elbow.png
+INPUT .\clusters.png
+INPUT .\clusters.png
+INPUT .\clusters.png
+INPUT .\clusters.png
+INPUT .\clusters.png
+INPUT .\clusters.png
+INPUT .\clusters.png
 INPUT shurkalova_a_coursework.aux
 INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\latt1440.pk
 INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\latt1440.pk

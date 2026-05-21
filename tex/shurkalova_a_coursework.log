@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.6)  21 MAY 2026 22:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.6)  22 MAY 2026 01:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -329,6 +329,21 @@ Package: enumerate 2023/07/04 v3.00 enumerate extensions (DPC)
 \c@rlistctr=\count288
 ) (C:\Program Files\MiKTeX\tex/latex/tools\indentfirst.sty
 Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
+) (C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+ (C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen159
+\Gin@req@width=\dimen160
 ) (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count289
@@ -338,23 +353,23 @@ Package babel Info: 'russian' activates 'russian' shorthands.
 )
 \openout1 = `shurkalova_a_coursework.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Info: Redefining \th on input line 23.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Info: Redefining \th on input line 24.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -390,7 +405,25 @@ LaTeX Info: Redefining \th on input line 23.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(shurkalova_a_coursework.toc [1
+(C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count290
+\scratchdimen=\dimen161
+\scratchbox=\box53
+\nofMPsegments=\count291
+\nofMParguments=\count292
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count293
+\MPscratchDim=\dimen162
+\MPnumerator=\count294
+\makeMPintoPDFobject=\count295
+\everyMPtoPDFconversion=\toks24
+) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+)) (shurkalova_a_coursework.toc [1
 
 {C:/Users/Admin/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 Overfull \hbox (0.6081pt too wide) in paragraph at lines 3--3
@@ -409,79 +442,88 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \openout3 = `shurkalova_a_coursework.toc'.
 
  [2]
-Overfull \hbox (9.73947pt too wide) in paragraph at lines 101--104
+Overfull \hbox (9.73947pt too wide) in paragraph at lines 102--105
 \T2A/cmr/m/n/14.4 сре-да вза-и-мо-дей-ствия поль-зо-ва-те-лей и ге-не-ра-ция по-ве-ден-че-ских дан-ных. Пред-
  []
 
 [3] [4]
-Overfull \hbox (14.39923pt too wide) in paragraph at lines 190--191
+Overfull \hbox (14.39923pt too wide) in paragraph at lines 191--192
 []\T2A/cmr/m/n/14.4 Кластер 0 (ак-тив-ные): поль-зу-ют-ся Instagram, TikTok, YouTube по несколь-
  []
 
 [5] [6]
-Overfull \hbox (46.9616pt too wide) in paragraph at lines 243--246
+Overfull \hbox (46.9616pt too wide) in paragraph at lines 244--247
 []\T2A/cmr/m/n/14.4 Это рас-сто-я-ние по пря-мой меж-ду дву-мя точ-ка-ми. Для двух то-чек $\OML/cmm/m/it/14.4 A\OT1/cmr/m/n/14.4 (\OML/cmm/m/it/14.4 x[]; x[]; [] ; x[]\OT1/cmr/m/n/14.4 )$
  []
 
 [7]
-Overfull \hbox (1.39685pt too wide) in paragraph at lines 295--296
+Overfull \hbox (1.39685pt too wide) in paragraph at lines 296--297
 []\T2A/cmr/m/n/14.4 Механизм K-ближайших со-се-дей рас-счи-тан на вы-яв-ле-ние рас-сто-я-ния меж-
  []
 
 [8]
-Overfull \hbox (10.91626pt too wide) in paragraph at lines 304--305
+Overfull \hbox (10.91626pt too wide) in paragraph at lines 305--306
 []\T2A/cmr/m/n/14.4 Для клас-си-фи-ка-ции ра-бо-та-ет пра-ви-ло ѕГо-ло-со-ва-ние боль-шин-ствомї.
  []
 
 [9] [10]
-Overfull \hbox (1.20697pt too wide) in paragraph at lines 373--374
+Overfull \hbox (1.20697pt too wide) in paragraph at lines 374--375
 []\T2A/cmr/m/n/14.4 Интерпретируемость ^^V ре-зуль-та-ты кла-сте-ри-за-ции лег-ко ана-ли-зи-ро-вать,
  []
 
 [11] [12] [13]
-LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 467.
+LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 468.
  (C:\Program Files\MiKTeX\tex/latex/cyrillic\t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-Overfull \hbox (2.38731pt too wide) in paragraph at lines 467--468
+Overfull \hbox (2.38731pt too wide) in paragraph at lines 468--469
 []\T2A/cmr/m/n/14.4 Для ана-ли-за был вы-бран да-та-сет \T2A/cmtt/m/n/14.4 instagram_usage_lifestyle.csv \T2A/cmr/m/n/14.4 с плат-
  []
 
 [14]
-Overfull \hbox (1.57489pt too wide) in paragraph at lines 496--496
+Overfull \hbox (1.57489pt too wide) in paragraph at lines 497--497
 []\T2A/cmr/bx/n/17.28 Сравнительный ана-лиз и оцен-ка ка-че-ства ра-бо-ты мо-
  []
 
+<elbow.png, id=62, 578.16pt x 361.35pt>
+File: elbow.png Graphic file (type png)
+<use elbow.png>
+Package pdftex.def Info: elbow.png  used on input line 511.
+(pdftex.def)             Requested size: 386.95897pt x 241.84961pt.
 
-LaTeX Warning: Reference `fig:clusters' on page 15 undefined on input line 499.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-[15] [16]
-Underfull \hbox (badness 10000) in paragraph at lines 551--552
+<clusters.png, id=64, 722.7pt x 505.89pt>
+File: clusters.png Graphic file (type png)
+<use clusters.png>
+Package pdftex.def Info: clusters.png  used on input line 518.
+(pdftex.def)             Requested size: 386.95897pt x 270.86847pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[15] [16 <./elbow.png>] [17 <./clusters.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 567--568
 []\T2A/cmr/m/n/14.4 Воронцов К.В. Ма-шин-ное обу-че-ние (курс лек-ций). ^^V URL:
  []
 
-[17] (shurkalova_a_coursework.aux)
+[18] (shurkalova_a_coursework.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
  ) 
 Here is how much of TeX's memory you used:
- 3905 strings out of 467866
- 65252 string characters out of 5428381
- 471380 words of memory out of 5000000
- 32753 multiletter control sequences out of 15000+600000
+ 4723 strings out of 467866
+ 77259 string characters out of 5428381
+ 484267 words of memory out of 5000000
+ 33542 multiletter control sequences out of 15000+600000
  640520 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,8n,65p,945b,263s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\latt1440.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0700.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1000.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1440.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx2074.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1440.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0800.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on shurkalova_a_coursework.pdf (17 pages, 255046 bytes).
+Output written on shurkalova_a_coursework.pdf (18 pages, 465752 bytes).
 PDF statistics:
- 553 PDF objects out of 1000 (max. 8388607)
+ 560 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

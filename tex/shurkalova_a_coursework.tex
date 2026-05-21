@@ -585,4 +585,99 @@ TP (True Positive) — объекты правильно отнесённые к
 
 \end{thebibliography}
 
+\newpage
+\section*{ПРИЛОЖЕНИЕ}
+\addcontentsline{toc}{section}{ПРИЛОЖЕНИЕ}
+
+\subsection*{Листинг программного кода}
+
+\begin{verbatim}
+# -*- coding: utf-8 -*-
+# КУРСОВАЯ РАБОТА
+# Анализ поведенческих закономерностей пользователей социальных сетей
+# Кластеризация пользователей Instagram (K-Means)
+
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+from sklearn.cluster import KMeans
+from sklearn.preprocessing import StandardScaler
+from sklearn.metrics import silhouette_score
+from sklearn.decomposition import PCA
+from collections import Counter
+
+# 1. Загрузка данных
+df = pd.read_csv('instagram_usage_lifestyle.csv')
+print(df.shape)
+
+df = df.head(50000)
+
+# 2. Отбор поведенческих признаков
+cols = [
+    'daily_active_minutes_instagram',
+    'likes_given_per_day',
+    'comments_written_per_day',
+    'dms_sent_per_week',
+    'dms_received_per_week',
+    'followers_count',
+    'following_count',
+    'sessions_per_day',
+    'posts_created_per_week',
+    'stories_viewed_per_day',
+    'reels_watched_per_day',
+    'ads_clicked_per_day'
+]
+
+cols_ok = [c for c in cols if c in df.columns]
+
+X = df[cols_ok].copy()
+X = X.dropna()
+
+# 3. Стандартизация
+scaler = StandardScaler()
+X_scaled = scaler.fit_transform(X)
+
+# 4. Метод локтя
+inertia = []
+for k in range(1, 11):
+    m = KMeans(n_clusters=k, random_state=42, n_init=10)
+    m.fit(X_scaled)
+    inertia.append(m.inertia_)
+
+plt.figure()
+plt.plot(range(1, 11), inertia, 'o-')
+plt.xlabel('Число кластеров (K)')
+plt.ylabel('Инерция')
+plt.title('Метод локтя')
+plt.grid()
+plt.savefig('elbow.png')
+plt.show()
+
+# 5. Обучение модели K-Means
+model = KMeans(n_clusters=3, random_state=42, n_init=10)
+clusters = model.fit_predict(X_scaled)
+
+# 6. Размер кластеров
+print(Counter(clusters))
+
+# 7. Силуэт
+sil = silhouette_score(X_scaled, clusters)
+print(f'Силуэт: {sil:.4f}')
+
+# 8. Визуализация кластеров
+pca = PCA(n_components=2)
+X_pca = pca.fit_transform(X_scaled)
+
+colors = ['red', 'blue', 'green']
+for i in range(3):
+    mask = clusters == i
+    plt.scatter(X_pca[mask, 0], X_pca[mask, 1],
+                c=colors[i], label=f'Кластер {i}', alpha=0.5)
+
+plt.legend()
+plt.title('Визуализация кластеров пользователей Instagram')
+plt.savefig('clusters.png')
+plt.show()
+\end{verbatim}
+
 \end{document}

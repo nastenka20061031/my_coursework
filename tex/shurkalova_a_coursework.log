@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.6)  22 MAY 2026 01:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.6)  22 MAY 2026 01:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -481,49 +481,50 @@ Overfull \hbox (2.38731pt too wide) in paragraph at lines 468--469
  []
 
 [14]
-Overfull \hbox (1.57489pt too wide) in paragraph at lines 497--497
+Overfull \hbox (1.57489pt too wide) in paragraph at lines 498--498
 []\T2A/cmr/bx/n/17.28 Сравнительный ана-лиз и оцен-ка ка-че-ства ра-бо-ты мо-
  []
 
 <elbow.png, id=62, 578.16pt x 361.35pt>
 File: elbow.png Graphic file (type png)
 <use elbow.png>
-Package pdftex.def Info: elbow.png  used on input line 511.
-(pdftex.def)             Requested size: 386.95897pt x 241.84961pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<clusters.png, id=64, 722.7pt x 505.89pt>
+Package pdftex.def Info: elbow.png  used on input line 515.
+(pdftex.def)             Requested size: 435.32422pt x 272.07599pt.
+[15]
+<clusters.png, id=67, 722.7pt x 505.89pt>
 File: clusters.png Graphic file (type png)
 <use clusters.png>
-Package pdftex.def Info: clusters.png  used on input line 518.
-(pdftex.def)             Requested size: 386.95897pt x 270.86847pt.
+Package pdftex.def Info: clusters.png  used on input line 523.
+(pdftex.def)             Requested size: 435.32422pt x 304.7251pt.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
 
-[15] [16 <./elbow.png>] [17 <./clusters.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 567--568
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[16 <./elbow.png> <./clusters.png>] [17] [18
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 572--573
 []\T2A/cmr/m/n/14.4 Воронцов К.В. Ма-шин-ное обу-че-ние (курс лек-ций). ^^V URL:
  []
 
-[18] (shurkalova_a_coursework.aux)
+[19] (shurkalova_a_coursework.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 4723 strings out of 467866
- 77259 string characters out of 5428381
- 484267 words of memory out of 5000000
- 33542 multiletter control sequences out of 15000+600000
+ 4719 strings out of 467866
+ 77178 string characters out of 5428381
+ 484221 words of memory out of 5000000
+ 33538 multiletter control sequences out of 15000+600000
  640520 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,8n,65p,945b,263s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\latt1440.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0700.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1000.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1440.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx2074.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1440.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0800.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on shurkalova_a_coursework.pdf (18 pages, 465752 bytes).
+Output written on shurkalova_a_coursework.pdf (19 pages, 467354 bytes).
 PDF statistics:
- 560 PDF objects out of 1000 (max. 8388607)
+ 567 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

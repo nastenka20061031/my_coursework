@@ -15,4 +15,4 @@
 \contentsline {subsection}{\numberline {2.2.\relax }Предобработка и исследовательский анализ данных}{14}{}%
 \contentsline {subsection}{\numberline {2.3.\relax }Построение моделей}{15}{}%
 \contentsline {subsection}{\numberline {2.4.\relax }Сравнительный анализ и оценка качества работы моделей}{15}{}%
-\contentsline {section}{ЗАКЛЮЧЕНИЕ}{16}{}%
+\contentsline {section}{ЗАКЛЮЧЕНИЕ}{18}{}%

@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1779401179.68889 "c:/Users/Admin/Desktop/Курсовая/my_coursework/tex/shurkalova_a_coursework.tex" "shurkalova_a_coursework.pdf" "shurkalova_a_coursework" 1779401181.13465 0
+["pdflatex"] 1779402624.87359 "c:/Users/Admin/Desktop/Курсовая/my_coursework/tex/shurkalova_a_coursework.tex" "shurkalova_a_coursework.pdf" "shurkalova_a_coursework" 1779402626.24343 0
   "C:/Program Files/MiKTeX/fonts/tfm/jknappen/ec/tcrm1440.tfm" 993062510 1460 05250f74aea2bdcfe9d6766811b8b7b2 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1233951854 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -81,12 +81,12 @@
   "C:/Users/Admin/AppData/Local/MiKTeX/fonts/tfm/lh/lh-t2a/larm2074.tfm" 1775626234 3264 c29ba0a7d68c56f5a738fbe91d6d9e9d ""
   "C:/Users/Admin/AppData/Local/MiKTeX/fonts/tfm/lh/lh-t2a/latt1440.tfm" 1779378690 1272 e3abe42d6bdbd8626fffa22fcb43f669 ""
   "C:/Users/Admin/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1775451984 13323822 9642687547d753fe9a22d51bf9113d24 ""
-  "c:/Users/Admin/Desktop/Курсовая/my_coursework/tex/shurkalova_a_coursework.tex" 1779401178 54047 725c4b8950f659ebd4117a98db561b46 ""
+  "c:/Users/Admin/Desktop/Курсовая/my_coursework/tex/shurkalova_a_coursework.tex" 1779402622 54031 0130b072a01501983f400e095a858a6d ""
   "clusters.png" 1779400276 219590 f44a4fb3435de0d8581535f86c2c732e ""
   "elbow.png" 1779400284 47720 91e360a013627dbe97d41e92fc5a7030 ""
-  "shurkalova_a_coursework.aux" 1779401180 3909 10eb7213ae83bf22bf8404013fa2100b "pdflatex"
-  "shurkalova_a_coursework.tex" 1779401178 54047 725c4b8950f659ebd4117a98db561b46 ""
-  "shurkalova_a_coursework.toc" 1779401180 2149 d7ae893e6dff147179e4ee73b08aa453 "pdflatex"
+  "shurkalova_a_coursework.aux" 1779402625 3457 fc51c525c53251123c7c2834cadde882 "pdflatex"
+  "shurkalova_a_coursework.tex" 1779402622 54031 0130b072a01501983f400e095a858a6d ""
+  "shurkalova_a_coursework.toc" 1779402625 2149 5122704a0f505d107dd0f70f27f00590 "pdflatex"
   (generated)
   "shurkalova_a_coursework.aux"
   "shurkalova_a_coursework.log"

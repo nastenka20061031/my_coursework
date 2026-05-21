@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.6)  22 MAY 2026 01:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.6)  22 MAY 2026 02:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -507,8 +507,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 572--573
 []\T2A/cmr/m/n/14.4 Воронцов К.В. Ма-шин-ное обу-че-ние (курс лек-ций). ^^V URL:
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 587--588
+[]\T2A/cmr/m/n/14.4 Instagram User Lifestyle Dataset // Kaggle. ^^V URL:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 587--588
+\T2A/cmr/m/n/14.4 https://www.kaggle.com/datasets/rabiulhosseniu/instagram-user-lifestyle-
+ []
+
 [19]
-Overfull \hbox (20.5803pt too wide) in paragraph at lines 681--681
+Overfull \hbox (20.5803pt too wide) in paragraph at lines 684--684
 []\T2A/cmtt/m/n/14.4 # Анализ поведенческих закономерностей пользователей социальных сетей[] 
  []
 
@@ -519,15 +529,15 @@ L3 programming layer <2026-01-19>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 4721 strings out of 467866
- 77238 string characters out of 5428381
- 484221 words of memory out of 5000000
- 33540 multiletter control sequences out of 15000+600000
+ 4722 strings out of 467866
+ 77246 string characters out of 5428381
+ 484225 words of memory out of 5000000
+ 33541 multiletter control sequences out of 15000+600000
  640520 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,8n,65p,945b,312s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\latt1440.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0700.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1000.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1440.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx2074.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1440.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0800.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on shurkalova_a_coursework.pdf (22 pages, 496488 bytes).
+Output written on shurkalova_a_coursework.pdf (22 pages, 496594 bytes).
 PDF statistics:
  648 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

@@ -14,6 +14,12 @@
 \contentsline {subsection}{\numberline {2.1.\relax }Получение данных для построения моделей}{14}{}%
 \contentsline {subsection}{\numberline {2.2.\relax }Предобработка и исследовательский анализ данных}{14}{}%
 \contentsline {subsection}{\numberline {2.3.\relax }Построение моделей}{15}{}%
-\contentsline {subsection}{\numberline {2.4.\relax }Сравнительный анализ и оценка качества работы моделей}{15}{}%
-\contentsline {section}{ЗАКЛЮЧЕНИЕ}{18}{}%
-\contentsline {section}{ПРИЛОЖЕНИЕ}{20}{}%
+\contentsline {subsubsection}{\numberline {2.3.1.\relax }Кластеризация пользователей методом K-Means}{15}{}%
+\contentsline {subsubsection}{\numberline {2.3.2.\relax }Классификация пользователей методом KNN}{15}{}%
+\contentsline {subsection}{\numberline {2.4.\relax }Оценка качества моделей}{16}{}%
+\contentsline {subsubsection}{\numberline {2.4.1.\relax }Оценка качества кластеризации}{16}{}%
+\contentsline {subsubsection}{\numberline {2.4.2.\relax }Оценка качества классификации}{17}{}%
+\contentsline {subsubsection}{\numberline {2.4.3.\relax }Сравнение метрик расстояния}{17}{}%
+\contentsline {subsection}{\numberline {2.5.\relax }Анализ результатов и рекомендации}{18}{}%
+\contentsline {section}{ЗАКЛЮЧЕНИЕ}{20}{}%
+\contentsline {section}{ПРИЛОЖЕНИЕ}{22}{}%

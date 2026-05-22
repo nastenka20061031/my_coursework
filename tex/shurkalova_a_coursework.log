@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.6)  22 MAY 2026 04:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.6)  22 MAY 2026 12:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -532,10 +532,6 @@ Overfull \hbox (9.74857pt too wide) in paragraph at lines 103--106
  []
 
 [3] [4]
-
-LaTeX Warning: Citation `savin2020' on page 5 undefined on input line 180.
-
-
 Overfull \hbox (14.40685pt too wide) in paragraph at lines 192--193
 []\T2A/cmr/m/n/14.4 Кластер 0 (ак-тив-ные): поль-зу-ют-ся Instagram, TikTok, YouTube по несколь-
  []
@@ -560,156 +556,92 @@ Overfull \hbox (1.20697pt too wide) in paragraph at lines 408--409
 []\T2A/cmr/m/n/14.4 Интерпретируемость ^^V ре-зуль-та-ты кла-сте-ри-за-ции лег-ко ана-ли-зи-ро-вать,
  []
 
-[11]
+[11] [12] [13]
+Overfull \hbox (1.45955pt too wide) in paragraph at lines 490--491
+[]\T2A/cmr/m/n/14.4 Таким об-ра-зом, ме-то-ды ма-шин-но-го обу-че-ния, в част-но-сти KNN и K-Means,
+ []
 
-LaTeX Warning: Citation `vorontsov' on page 12 undefined on input line 437.
-
-
-LaTeX Warning: Citation `chubukova2024' on page 12 undefined on input line 442.
-
-[12]
-
-LaTeX Warning: Citation `chubukova2024' on page 13 undefined on input line 456.
-
-
-LaTeX Warning: Citation `chubukova2024' on page 13 undefined on input line 463.
-
-[13]
-LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 491.
+[14]
+LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 509.
  (C:\Program Files\MiKTeX\tex/latex/cyrillic\t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-
-LaTeX Warning: Citation `kaggle' on page 14 undefined on input line 491.
-
-
-Overfull \hbox (2.38731pt too wide) in paragraph at lines 491--492
+Overfull \hbox (2.38731pt too wide) in paragraph at lines 509--510
 []\T2A/cmr/m/n/14.4 Для ана-ли-за был вы-бран да-та-сет \T2A/cmtt/m/n/14.4 instagram_usage_lifestyle.csv \T2A/cmr/m/n/14.4 с плат-
  []
 
-[14] [15]
-<elbow.png, id=66, 578.16pt x 361.35pt>
+[15] [16]
+<elbow.png, id=69, 578.16pt x 361.35pt>
 File: elbow.png Graphic file (type png)
 <use elbow.png>
-Package pdftex.def Info: elbow.png  used on input line 566.
+Package pdftex.def Info: elbow.png  used on input line 584.
 (pdftex.def)             Requested size: 338.58632pt x 211.6122pt.
-<clusters.png, id=68, 722.7pt x 505.89pt>
+<clusters.png, id=71, 722.7pt x 505.89pt>
 File: clusters.png Graphic file (type png)
 <use clusters.png>
-Package pdftex.def Info: clusters.png  used on input line 573.
+Package pdftex.def Info: clusters.png  used on input line 591.
 (pdftex.def)             Requested size: 338.58632pt x 237.01184pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[16 <./elbow.png>]
+[17 <./elbow.png>] [18 <./clusters.png>]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[17 <./clusters.png>]
-<confusion_matrix.png, id=77, 578.16pt x 433.62pt>
+<confusion_matrix.png, id=80, 578.16pt x 433.62pt>
 File: confusion_matrix.png Graphic file (type png)
 <use confusion_matrix.png>
-Package pdftex.def Info: confusion_matrix.png  used on input line 644.
+Package pdftex.def Info: confusion_matrix.png  used on input line 685.
 (pdftex.def)             Requested size: 338.58632pt x 253.93465pt.
-
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Overfull \hbox (6.1517pt too wide) in paragraph at lines 649--650
+Overfull \hbox (6.1517pt too wide) in paragraph at lines 690--691
 []\T2A/cmr/m/n/14.4 Анализ мат-ри-цы оши-бок по-ка-зы-ва-ет, что боль-шин-ство поль-зо-ва-те-лей клас-
  []
 
-[18]
-Overfull \hbox (2.5424pt too wide) in paragraph at lines 681--682
-[]\T2A/cmr/m/n/14.4 Евклидова мет-ри-ка рас-сто-я-ния ока-за-лась наи-бо-лее под-хо-дя-щей для дан-
+[19] [20 <./confusion_matrix.png>]
+Overfull \hbox (7.30731pt too wide) in paragraph at lines 719--720
+[]\T2A/cmr/m/n/14.4 Для по-ни-ма-ния раз-ли-чий меж-ду кла-сте-ра-ми бы-ли про-ана-ли-зи-ро-ва-ны сред-
  []
 
-
-Overfull \hbox (7.7118pt too wide) in paragraph at lines 687--688
-[]\T2A/cmr/bx/n/14.4 Активным поль-зо-ва-те-лям (36.8% ауди-то-рии): \T2A/cmr/m/n/14.4 ре-ко-мен-ду-ет-ся пред-
- []
-
-[19 <./confusion_matrix.png>] [20] [21
+[21] [22] [23
 
 ]
-Overfull \hbox (20.5803pt too wide) in paragraph at lines 929--929
-[]\T2A/cmtt/m/n/14.4 # Анализ поведенческих закономерностей пользователей социальных сетей[] 
+Underfull \hbox (badness 10000) in paragraph at lines 803--804
+[]\T2A/cmr/m/n/14.4 Воронцов К.В. Ма-шин-ное обу-че-ние (курс лек-ций). ^^V URL:
  []
 
 
-Overfull \hbox (254.44798pt too wide) in paragraph at lines 929--929
-[]\T2A/cmtt/m/n/14.4 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, confusion_matrix[] 
- []
-
-[22]
-Overfull \hbox (27.88867pt too wide) in paragraph at lines 929--929
-[]\T2A/cmtt/m/n/14.4 print('Кластер 0:', c[0], '(', round(c[0]/len(clusters)*100, 1), '%)')[] 
+Underfull \hbox (badness 10000) in paragraph at lines 818--819
+[]\T2A/cmr/m/n/14.4 Instagram User Lifestyle Dataset // Kaggle. ^^V URL:
  []
 
 
-Overfull \hbox (27.88867pt too wide) in paragraph at lines 929--929
-[]\T2A/cmtt/m/n/14.4 print('Кластер 1:', c[1], '(', round(c[1]/len(clusters)*100, 1), '%)')[] 
+Underfull \hbox (badness 10000) in paragraph at lines 818--819
+\T2A/cmr/m/n/14.4 https://www.kaggle.com/datasets/rabiulhosseniu/instagram-user-lifestyle-
  []
 
-[23]
-Overfull \hbox (27.88867pt too wide) in paragraph at lines 929--929
-[]\T2A/cmtt/m/n/14.4 print('Кластер 2:', c[2], '(', round(c[2]/len(clusters)*100, 1), '%)')[] 
- []
-
-
-Overfull \hbox (152.13087pt too wide) in paragraph at lines 929--929
-[]    \T2A/cmtt/m/n/14.4 plt.scatter(X_pca[mask, 0], X_pca[mask, 1], c=colors[i], label=names[i], alpha=0.5)[] 
- []
-
-[24]
-Overfull \hbox (188.6727pt too wide) in paragraph at lines 929--929
-[]\T2A/cmtt/m/n/14.4 print('Пассивные:', sum(labels == 0), '(', round(sum(labels == 0)/len(labels)*100, 1), '%)')[] 
- []
-
-
-Overfull \hbox (174.05597pt too wide) in paragraph at lines 929--929
-[]\T2A/cmtt/m/n/14.4 print('Средние:', sum(labels == 1), '(', round(sum(labels == 1)/len(labels)*100, 1), '%)')[] 
- []
-
-
-Overfull \hbox (181.36433pt too wide) in paragraph at lines 929--929
-[]\T2A/cmtt/m/n/14.4 print('Активные:', sum(labels == 2), '(', round(sum(labels == 2)/len(labels)*100, 1), '%)')[] 
- []
-
-
-Overfull \hbox (378.69019pt too wide) in paragraph at lines 929--929
-[]\T2A/cmtt/m/n/14.4 X_train, X_test, y_train, y_test = train_test_split(X_scaled, labels, test_size=0.2, random_state=42, stratify=labels)[] 
- []
-
-
-Overfull \hbox (35.19704pt too wide) in paragraph at lines 929--929
-[]\T2A/cmtt/m/n/14.4 print('Лучшее k =', best_k, 'с точностью', round(best_acc*100, 2), '%')[] 
- []
-
-[25] [26] (shurkalova_a_coursework.aux)
+[24] [25] [26] [27] [28] [29] (shurkalova_a_coursework.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
  ) 
 Here is how much of TeX's memory you used:
- 5934 strings out of 467866
- 96016 string characters out of 5428381
- 511119 words of memory out of 5000000
- 34708 multiletter control sequences out of 15000+600000
- 641394 words of font info for 68 fonts, out of 8000000 for 9000
+ 5951 strings out of 467866
+ 96279 string characters out of 5428381
+ 510192 words of memory out of 5000000
+ 34724 multiletter control sequences out of 15000+600000
+ 641704 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 59i,8n,67p,945b,330s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\latt1440.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati1440.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0700.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1000.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1440.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx2074.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1440.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0800.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on shurkalova_a_coursework.pdf (26 pages, 552245 bytes).
+ 59i,8n,67p,945b,337s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\latt1200.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\latt1440.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati1440.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0700.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1000.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1440.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx2074.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1440.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0800.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on shurkalova_a_coursework.pdf (29 pages, 573584 bytes).
 PDF statistics:
- 707 PDF objects out of 1000 (max. 8388607)
+ 761 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 

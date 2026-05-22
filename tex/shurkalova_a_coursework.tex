@@ -857,6 +857,7 @@ MacQueen J. Some Methods for Classification and Analysis of Multivariate Observa
 
 \subsection*{Основные фрагменты программного кода}
 
+\small
 \begin{verbatim}
 # Импорт библиотек
 import pandas as pd
@@ -869,7 +870,8 @@ from sklearn.metrics import silhouette_score
 from sklearn.decomposition import PCA
 from sklearn.model_selection import train_test_split
 from sklearn.neighbors import KNeighborsClassifier
-from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, confusion_matrix
+from sklearn.metrics import accuracy_score, precision_score
+from sklearn.metrics import recall_score, f1_score, confusion_matrix
 from collections import Counter
 
 # Загрузка и подготовка данных
@@ -877,11 +879,20 @@ df = pd.read_csv('instagram_usage_lifestyle.csv')
 df = df.sample(n=50000, random_state=42)
 
 # Отбор признаков
-cols = ['daily_active_minutes_instagram', 'likes_given_per_day', 
-        'comments_written_per_day', 'dms_sent_per_week', 'dms_received_per_week',
-        'followers_count', 'following_count', 'sessions_per_day', 
-        'posts_created_per_week', 'stories_viewed_per_day', 
-        'reels_watched_per_day', 'ads_clicked_per_day']
+cols = [
+    'daily_active_minutes_instagram',
+    'likes_given_per_day',
+    'comments_written_per_day',
+    'dms_sent_per_week',
+    'dms_received_per_week',
+    'followers_count',
+    'following_count',
+    'sessions_per_day',
+    'posts_created_per_week',
+    'stories_viewed_per_day',
+    'reels_watched_per_day',
+    'ads_clicked_per_day'
+]
 X = df[cols].copy().dropna()
 
 # Стандартизация
@@ -898,7 +909,8 @@ print(f'Силуэт: {sil:.4f}')
 
 # KNN классификация
 X_train, X_test, y_train, y_test = train_test_split(
-    X_scaled, clusters, test_size=0.2, random_state=42, stratify=clusters)
+    X_scaled, clusters, test_size=0.2, random_state=42,
+    stratify=clusters)
 
 knn = KNeighborsClassifier(n_neighbors=15)
 knn.fit(X_train, y_train)
@@ -907,5 +919,6 @@ y_pred = knn.predict(X_test)
 acc = accuracy_score(y_test, y_pred)
 print(f'Точность KNN: {acc:.4f}')
 \end{verbatim}
+\normalsize
 
 \end{document}

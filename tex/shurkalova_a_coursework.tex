@@ -290,6 +290,39 @@ d = \max(|x_1 - y_1|, |x_2 - y_2|, \dots, |x_n - y_n|)
 В задачах анализа поведения это может быть полезно, если один из поведенческих показателей (например, время в сети) 
 значительно важнее остальных, и именно он определяет схожесть или различие пользователей.
 
+\textbf{Пример расчёта расстояний}
+\medskip
+
+Рассмотрим двух пользователей Instagram с тремя поведенческими признаками:
+
+\begin{itemize}
+    \item Пользователь А: время в приложении 120 минут, 45 лайков, 3 комментария
+    \item Пользователь Б: время в приложении 85 минут, 30 лайков, 1 комментарий
+\end{itemize}
+
+Рассчитаем расстояние между ними тремя способами.
+
+\textit{Евклидово расстояние:}
+\[
+\begin{aligned}
+d &= \sqrt{(120-85)^2 + (45-30)^2 + (3-1)^2} \\
+&= \sqrt{35^2 + 15^2 + 2^2} = \sqrt{1225 + 225 + 4} = \sqrt{1454} \approx 38,1
+\end{aligned}
+\]
+
+\textit{Манхэттенское расстояние:}
+\[
+d = |120-85| + |45-30| + |3-1| = 35 + 15 + 2 = 52
+\]
+
+\textit{Расстояние Чебышёва:}
+\[
+d = \max(|120-85|, |45-30|, |3-1|) = \max(35, 15, 2) = 35
+\]
+
+Чем меньше расстояние, тем больше пользователи похожи по поведению. В данном примере расстояние довольно большое, значит, пользователи ведут себя по-разному. Если бы оба ставили по 40 лайков и проводили по 100 минут, расстояние было бы близко к нулю.
+
+Евклидово расстояние чувствительно к большим отклонениям по одному признаку, манхэттенское относится к отклонениям равномерно, а Чебышёва ориентируется на самый сильный признак.
 \subsubsection{Алгоритм K-ближайших соседей}
 
 Алгоритм KNN — это надежный и интуитивно понятный способ решения задач классификации и регрессии. Основной принцип алгоритма основан на нахождении K ближайших соседей на основе похожести их признаков.
@@ -435,17 +468,6 @@ TP (True Positive) — объекты правильно отнесённые к
     \item Силуэт (silhouette score) — показывает, насколько объект похож на свой кластер по сравнению с соседними. Значение силуэта лежит в диапазоне от -1 до 1. Чем ближе к 1, тем лучше: объект хорошо сгруппирован с «соседями» по кластеру и далёк от других кластеров. Значения около 0 означают, что кластеры пересекаются. Отрицательные значения говорят о том, что объект, вероятно, попал не в свой кластер.
 \end{itemize}
 
-\textbf{Как выбирать параметры моделей}
-\medskip
-
-Для KNN выбор оптимального значения K осуществляется с помощью кросс-валидации~\cite{vorontsov}. Набор данных разбивается на несколько частей (например, на 5 блоков), модель обучается на 4 из них и проверяется на 1. Так повторяется несколько раз, и в итоге выбирается тот K, при котором средняя точность максимальна.
-
-Для K-Means число кластеров K подбирают, анализируя график инерции и значение силуэта:
-
-\begin{itemize}
-    \item Метод локтя — строится график зависимости инерции от числа кластеров. Оптимальное значение K находится в точке, где график резко замедляет своё падение, образуя «локоть».
-    \item Максимум силуэта — перебираются разные значения K, и выбирается то, при котором средний силуэт максимален.
-\end{itemize}
 
 В данной работе для оценки качества классификации KNN будут использоваться accuracy, precision, recall и F1-мера, а также матрица ошибок. Для выбора оптимального числа кластеров K-Means будет применён метод локтя и оценка силуэта.
 
@@ -478,13 +500,57 @@ TP (True Positive) — объекты правильно отнесённые к
 
 \subsection{Предобработка и исследовательский анализ данных}
 
-На данном этапе из датасета были отобраны числовые поведенческие признаки: время в приложении, количество лайков, комментариев, сообщений, подписчиков, подписок, сессий, постов, просмотров историй и рилсов, а также клики по рекламе. Пропущенные значения были удалены, чтобы избежать искажения результатов. После этого признаки были приведены к единому виду с помощью библиотеки \texttt{StandardScaler}. Это необходимо, так как признаки имеют различные единицы измерения. Без стандартизации признаки с большими числовыми диапазонами могли бы доминировать над остальными.
+На данном этапе из датасета были отобраны числовые поведенческие признаки: время в приложении, количество лайков, комментариев, сообщений, подписчиков, подписок, сессий, постов, просмотров историй и рилсов, а также клики по рекламе.
 
+\begin{table}[h!]
+\centering
+\caption{Описание поведенческих признаков}
+\label{tab:features}
+\begin{tabular}{|l|l|l|}
+\hline
+\textbf{Признак} & \textbf{Диапазон} & \textbf{Описание} \\
+\hline
+daily\_active\_minutes\_instagram & 0-480 мин & Время в приложении \\
+\hline
+likes\_given\_per\_day & 0-200 & Лайки в день \\
+\hline
+comments\_written\_per\_day & 0-50 & Комментарии в день \\
+\hline
+dms\_sent\_per\_week & 0-500 & Отправленные сообщения \\
+\hline
+dms\_received\_per\_week & 0-500 & Полученные сообщения \\
+\hline
+followers\_count & 0-10000 & Подписчики \\
+\hline
+following\_count & 0-5000 & Подписки \\
+\hline
+sessions\_per\_day & 1-20 & Сессии в день \\
+\hline
+posts\_created\_per\_week & 0-30 & Посты в неделю \\
+\hline
+stories\_viewed\_per\_day & 0-100 & Истории \\
+\hline
+reels\_watched\_per\_day & 0-150 & Рилсы \\
+\hline
+ads\_clicked\_per\_day & 0-10 & Клики по рекламе \\
+\hline
+\end{tabular}
+\end{table}
+
+Пропущенные значения были удалены, чтобы избежать искажения результатов. После этого признаки были приведены к единому виду с помощью библиотеки StandardScaler. Это необходимо, так как признаки имеют различные единицы измерения. Без стандартизации признаки с большими числовыми диапазонами могли бы доминировать над остальными.
 \subsection{Построение моделей}
 
 \subsubsection{Кластеризация пользователей методом K-Means}
 
-Для кластеризации пользователей был выбран алгоритм K-Means. Необходимое число кластеров определялось методом локтя. График инерции показал, что после K = 3 падение инерции замедляется, поэтому было выбрано три кластера.
+Для кластеризации пользователей был выбран алгоритм K-Means. Необходимое число кластеров определялось методом локтя.
+График инерции показал, что после K = 3 падение инерции замедляется, поэтому было выбрано три кластера.
+
+\textbf{Как работает метод локтя}
+
+Метод локтя основан на анализе суммы квадратов расстояний от каждой точки до центра своего кластера. Эта сумма называется инерцией. Чем меньше инерция, тем компактнее получились кластеры.
+При увеличении числа кластеров инерция всегда уменьшается, потому что точки оказываются ближе к центрам. Однако после некоторого значения K уменьшение становится незначительным. На графике это выглядит как резкий изгиб — «локоть». Именно в этой точке и нужно выбирать число кластеров.
+В данном эксперименте инерция быстро падала при K от 1 до 3, а начиная с K = 4 снижение замедлилось. Это означает, что увеличение числа кластеров больше трёх не даёт значительного улучшения. Поэтому для анализа выбрано K = 3.
+
 
 Модель K-Means была обучена на обработанных данных с параметрами: \texttt{n\_clusters=3}, \texttt{random\_state=42}, \texttt{n\_init=10}. После обучения каждому пользователю был присвоен номер кластера (0, 1 или 2).
 
@@ -653,33 +719,6 @@ TP (True Positive) — объекты правильно отнесённые к
 
 \newpage
 
-\begin{thebibliography}{99}
-
-\bibitem{blagov2020}
-Благов А.В., Рыцарев И.А. Анализ социальных сетей: учебное пособие. — Самара: Издательство Самарского университета, 2020. — 102 с.
-
-\bibitem{savin2020}
-Савин И.В., Мариев О.С., Пушкарев А.А. Методы анализа социальных сетей в экономике: учебное пособие; под общ. ред. И.В. Савина. — Екатеринбург: Издательство Уральского университета, 2020. — 99 с.
-
-\bibitem{vorontsov}
-Воронцов К.В. Машинное обучение (курс лекций). — URL: http://www.machinelearning.ru (дата обращения: 18.05.2025).
-
-\bibitem{chubukova2024}
-Чубукова И.А. Data Mining: учебное пособие. — 4-е изд. — М.: ИНФРА-М, 2024. — 204 с.
-
-\bibitem{zhdanova2025}
-Жданова А.Н. Онтологический подход к предсказанию психологических характеристик пользователей соцсетей на основе графов знаний // Искусственный интеллект и принятие решений. — 2025. — № 3. — С. 40–59.
-
-\bibitem{ratushnyak2022}
-Ратушняк Г.Я., Золкин А.Л. Технологии разработки и проектирования информационных систем. Часть 1: учебное пособие. — Москва: Русайнс, 2022. — 201 с.
-
-\bibitem{zaramenskikh2025}
-Зараменских Е.П. Разработка информационных систем: учебник и практикум. — 2-е изд. — Москва: Юрайт, 2025. — 78 с.
-
-\bibitem{kaggle}
-Instagram User Lifestyle Dataset // Kaggle. — URL: https://www.kaggle.com/datasets/rabiulhosseniu/instagram-user-lifestyle-dataset (дата обращения: 22.05.2025).
-
-\end{thebibliography}
 
 \newpage
 \section*{ПРИЛОЖЕНИЕ}
@@ -688,27 +727,34 @@ Instagram User Lifestyle Dataset // Kaggle. — URL: https://www.kaggle.com/data
 \subsection*{Листинг программного кода}
 
 \begin{verbatim}
-# -*- coding: utf-8 -*-
-# КУРСОВАЯ РАБОТА
+# Курсовая работа
 # Анализ поведенческих закономерностей пользователей социальных сетей
-# Кластеризация пользователей Instagram (K-Means)
+# Шуркалова А. Н.
 
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
+import seaborn as sns
 from sklearn.cluster import KMeans
 from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import silhouette_score
 from sklearn.decomposition import PCA
+from sklearn.model_selection import train_test_split
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, confusion_matrix
 from collections import Counter
 
-# 1. Загрузка данных
+# 1. Загружаем данные
+
 df = pd.read_csv('instagram_usage_lifestyle.csv')
-print(df.shape)
+print('Загружено', df.shape[0], 'строк,', df.shape[1], 'столбцов')
 
-df = df.head(50000)
+# Берём 50000 случайных пользователей
+df = df.sample(n=50000, random_state=42)
+print('Используем', len(df), 'записей')
 
-# 2. Отбор поведенческих признаков
+# 2. Отбираем признаки
+
 cols = [
     'daily_active_minutes_instagram',
     'likes_given_per_day',
@@ -724,56 +770,162 @@ cols = [
     'ads_clicked_per_day'
 ]
 
-cols_ok = [c for c in cols if c in df.columns]
-
-X = df[cols_ok].copy()
+X = df[cols].copy()
 X = X.dropna()
+print('Признаков:', len(cols))
+print('Объектов после очистки:', len(X))
 
 # 3. Стандартизация
+
 scaler = StandardScaler()
 X_scaled = scaler.fit_transform(X)
 
 # 4. Метод локтя
+
 inertia = []
 for k in range(1, 11):
     m = KMeans(n_clusters=k, random_state=42, n_init=10)
     m.fit(X_scaled)
     inertia.append(m.inertia_)
 
-plt.figure()
 plt.plot(range(1, 11), inertia, 'o-')
-plt.xlabel('Число кластеров (K)')
+plt.xlabel('Число кластеров')
 plt.ylabel('Инерция')
 plt.title('Метод локтя')
 plt.grid()
 plt.savefig('elbow.png')
 plt.show()
 
-# 5. Обучение модели K-Means
+# 5. K-Means с 3 кластерами
+
 model = KMeans(n_clusters=3, random_state=42, n_init=10)
 clusters = model.fit_predict(X_scaled)
 
 # 6. Размер кластеров
-print(Counter(clusters))
+
+c = Counter(clusters)
+print()
+print('Распределение по кластерам:')
+print('Кластер 0:', c[0], '(', round(c[0]/len(clusters)*100, 1), '%)')
+print('Кластер 1:', c[1], '(', round(c[1]/len(clusters)*100, 1), '%)')
+print('Кластер 2:', c[2], '(', round(c[2]/len(clusters)*100, 1), '%)')
 
 # 7. Силуэт
+
 sil = silhouette_score(X_scaled, clusters)
-print(f'Силуэт: {sil:.4f}')
+print()
+print('Силуэт:', round(sil, 4))
 
 # 8. Визуализация кластеров
+
 pca = PCA(n_components=2)
 X_pca = pca.fit_transform(X_scaled)
 
+plt.figure(figsize=(10, 8))
 colors = ['red', 'blue', 'green']
+names = ['Пассивные', 'Средние', 'Активные']
 for i in range(3):
-    mask = clusters == i
-    plt.scatter(X_pca[mask, 0], X_pca[mask, 1],
-                c=colors[i], label=f'Кластер {i}', alpha=0.5)
-
+    mask = (clusters == i)
+    plt.scatter(X_pca[mask, 0], X_pca[mask, 1], c=colors[i], label=names[i], alpha=0.5)
 plt.legend()
-plt.title('Визуализация кластеров пользователей Instagram')
+plt.title('Кластеры пользователей')
 plt.savefig('clusters.png')
 plt.show()
+
+# 9. Создаём метки для KNN
+
+df2 = df[cols].copy()
+df2['score'] = (df2['daily_active_minutes_instagram'] / 100 +
+                df2['likes_given_per_day'] / 50 +
+                df2['comments_written_per_day'] / 10 +
+                df2['posts_created_per_week'] * 10 +
+                df2['sessions_per_day'] * 5)
+
+q1 = df2['score'].quantile(0.33)
+q2 = df2['score'].quantile(0.66)
+
+def get_label(s):
+    if s <= q1:
+        return 0
+    elif s <= q2:
+        return 1
+    else:
+        return 2
+
+df2['label'] = df2['score'].apply(get_label)
+labels = df2['label'].values
+
+print()
+print('Метки для KNN:')
+print('Пассивные:', sum(labels == 0), '(', round(sum(labels == 0)/len(labels)*100, 1), '%)')
+print('Средние:', sum(labels == 1), '(', round(sum(labels == 1)/len(labels)*100, 1), '%)')
+print('Активные:', sum(labels == 2), '(', round(sum(labels == 2)/len(labels)*100, 1), '%)')
+
+# 10. Обучаем KNN
+
+X_train, X_test, y_train, y_test = train_test_split(X_scaled, labels, test_size=0.2, random_state=42, stratify=labels)
+
+print()
+print('Обучающая выборка:', len(X_train))
+print('Тестовая выборка:', len(X_test))
+print()
+print('Результаты KNN:')
+print('k   | Accuracy')
+print('----|---------')
+
+best_acc = 0
+best_k = 0
+
+for k in [3, 5, 7, 9, 11, 15, 21]:
+    knn = KNeighborsClassifier(n_neighbors=k)
+    knn.fit(X_train, y_train)
+    pred = knn.predict(X_test)
+    acc = accuracy_score(y_test, pred)
+    print(k, ' | ', round(acc, 4))
+    if acc > best_acc:
+        best_acc = acc
+        best_k = k
+
+print()
+print('Лучшее k =', best_k, 'с точностью', round(best_acc*100, 2), '%')
+
+# 11. Матрица ошибок
+
+best_knn = KNeighborsClassifier(n_neighbors=best_k)
+best_knn.fit(X_train, y_train)
+pred_best = best_knn.predict(X_test)
+
+cm = confusion_matrix(y_test, pred_best)
+print()
+print('Матрица ошибок:')
+print(cm)
+
+plt.figure(figsize=(8, 6))
+sns.heatmap(cm, annot=True, fmt='d', cmap='Blues', 
+            xticklabels=['Пассивные', 'Средние', 'Активные'],
+            yticklabels=['Пассивные', 'Средние', 'Активные'])
+plt.xlabel('Предсказано')
+plt.ylabel('На самом деле')
+plt.title('Матрица ошибок KNN')
+plt.savefig('confusion_matrix.png')
+plt.show()
+
+# 12. Сравнение метрик расстояния
+
+print()
+print('Сравнение метрик:')
+print('Метрика       | Точность')
+print('--------------|---------')
+
+for m in ['euclidean', 'manhattan', 'chebyshev']:
+    knn = KNeighborsClassifier(n_neighbors=best_k, metric=m)
+    knn.fit(X_train, y_train)
+    pred = knn.predict(X_test)
+    acc = accuracy_score(y_test, pred)
+    print(m, ' | ', round(acc, 4))
+
+print()
+print('Готово')
 \end{verbatim}
 
 \end{document}

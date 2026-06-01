@@ -1,27 +1,27 @@
 \babel@toc {russian}{}\relax 
 \contentsline {section}{ВВЕДЕНИЕ}{3}{}%
-\contentsline {section}{\numberline {1.\relax }Общая характеристика алгоритмов и методов машинного обучения}{5}{}%
-\contentsline {subsection}{\numberline {1.1.\relax }Описание задачи и этапов её решения}{5}{}%
-\contentsline {subsection}{\numberline {1.2.\relax }Описание моделей машинного обучения, используемых в работе}{5}{}%
-\contentsline {subsubsection}{\numberline {1.2.1.\relax }Анализ поведения пользователей в социальных сетях}{5}{}%
-\contentsline {subsubsection}{\numberline {1.2.2.\relax }Метрики расстояния}{8}{}%
-\contentsline {subsubsection}{\numberline {1.2.3.\relax }Алгоритм K-ближайших соседей}{9}{}%
-\contentsline {subsubsection}{\numberline {1.2.4.\relax }Алгоритм K-Means}{11}{}%
-\contentsline {subsubsection}{\numberline {1.2.5.\relax }Методы оценки качества моделей}{13}{}%
-\contentsline {subsection}{\numberline {1.3.\relax }Сравнение с аналогичными исследованиями}{15}{}%
-\contentsline {subsection}{\numberline {1.4.\relax }Краткая информация об инструментах разработки}{15}{}%
-\contentsline {subsection}{\numberline {1.5.\relax }Описание источников данных}{15}{}%
-\contentsline {section}{\numberline {2.\relax }Построение моделей машинного обучения и анализ результатов}{16}{}%
-\contentsline {subsection}{\numberline {2.1.\relax }Получение данных для построения моделей}{16}{}%
-\contentsline {subsection}{\numberline {2.2.\relax }Предобработка и исследовательский анализ данных}{16}{}%
-\contentsline {subsection}{\numberline {2.3.\relax }Построение моделей}{17}{}%
-\contentsline {subsubsection}{\numberline {2.3.1.\relax }Кластеризация пользователей методом K-Means}{17}{}%
-\contentsline {subsubsection}{\numberline {2.3.2.\relax }Классификация пользователей методом KNN}{18}{}%
-\contentsline {subsection}{\numberline {2.4.\relax }Оценка качества моделей}{19}{}%
-\contentsline {subsubsection}{\numberline {2.4.1.\relax }Оценка качества кластеризации}{19}{}%
-\contentsline {subsubsection}{\numberline {2.4.2.\relax }Оценка качества классификации}{20}{}%
-\contentsline {subsubsection}{\numberline {2.4.3.\relax }Сравнение метрик расстояния}{21}{}%
-\contentsline {subsection}{\numberline {2.5.\relax }Анализ результатов и рекомендации}{21}{}%
-\contentsline {subsection}{\numberline {2.6.\relax }Ограничения работы}{22}{}%
-\contentsline {section}{ЗАКЛЮЧЕНИЕ}{23}{}%
-\contentsline {section}{ПРИЛОЖЕНИЕ}{26}{}%
+\contentsline {section}{\numberline {1.\relax }Общая характеристика алгоритмов и методов машинного обучения}{6}{}%
+\contentsline {subsection}{\numberline {1.1.\relax }Описание задачи и этапов её решения}{6}{}%
+\contentsline {subsection}{\numberline {1.2.\relax }Описание моделей машинного обучения, используемых в работе}{6}{}%
+\contentsline {subsubsection}{\numberline {1.2.1.\relax }Анализ поведения пользователей в социальных сетях}{6}{}%
+\contentsline {subsubsection}{\numberline {1.2.2.\relax }Метрики расстояния}{9}{}%
+\contentsline {subsubsection}{\numberline {1.2.3.\relax }Алгоритм K-Means}{10}{}%
+\contentsline {subsubsection}{\numberline {1.2.4.\relax }Алгоритм K-ближайших соседей}{12}{}%
+\contentsline {subsubsection}{\numberline {1.2.5.\relax }Методы оценки качества моделей}{14}{}%
+\contentsline {subsection}{\numberline {1.3.\relax }Сравнение с аналогичными исследованиями}{16}{}%
+\contentsline {subsection}{\numberline {1.4.\relax }Краткая информация об инструментах разработки}{16}{}%
+\contentsline {subsection}{\numberline {1.5.\relax }Описание источников данных}{16}{}%
+\contentsline {section}{\numberline {2.\relax }Построение моделей машинного обучения и анализ результатов}{17}{}%
+\contentsline {subsection}{\numberline {2.1.\relax }Получение данных для построения моделей}{17}{}%
+\contentsline {subsection}{\numberline {2.2.\relax }Предобработка и исследовательский анализ данных}{17}{}%
+\contentsline {subsection}{\numberline {2.3.\relax }Построение моделей}{18}{}%
+\contentsline {subsubsection}{\numberline {2.3.1.\relax }Кластеризация пользователей методом K-Means}{18}{}%
+\contentsline {subsubsection}{\numberline {2.3.2.\relax }Классификация пользователей методом KNN}{19}{}%
+\contentsline {subsection}{\numberline {2.4.\relax }Оценка качества моделей}{20}{}%
+\contentsline {subsubsection}{\numberline {2.4.1.\relax }Оценка качества кластеризации}{20}{}%
+\contentsline {subsubsection}{\numberline {2.4.2.\relax }Оценка качества классификации}{21}{}%
+\contentsline {subsubsection}{\numberline {2.4.3.\relax }Сравнение метрик расстояния}{22}{}%
+\contentsline {subsection}{\numberline {2.5.\relax }Анализ результатов и рекомендации}{22}{}%
+\contentsline {subsection}{\numberline {2.6.\relax }Ограничения работы}{23}{}%
+\contentsline {section}{ЗАКЛЮЧЕНИЕ}{24}{}%
+\contentsline {section}{ПРИЛОЖЕНИЕ}{28}{}%

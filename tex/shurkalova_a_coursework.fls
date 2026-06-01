@@ -10,6 +10,8 @@ INPUT C:\Program Files\MiKTeX\tex\latex\extsizes\size14.clo
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Program Files\MiKTeX\tex\latex\base\exscale.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\base\exscale.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\cmap\cmap.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\cmap\cmap.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\cyrillic\t2aenc.def
@@ -22,6 +24,10 @@ INPUT C:\Program Files\MiKTeX\tex\latex\cyrillic\t2acmr.fd
 INPUT C:\Program Files\MiKTeX\tex\latex\cyrillic\t2acmr.fd
 INPUT C:\Program Files\MiKTeX\tex\latex\cyrillic\t2acmr.fd
 INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\larm1440.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\cmap\t2a.cmap
+INPUT C:\Program Files\MiKTeX\tex\latex\cmap\t2a.cmap
+OUTPUT shurkalova_a_coursework.pdf
+INPUT C:\Program Files\MiKTeX\tex\latex\cmap\t2a.cmap
 INPUT C:\Program Files\MiKTeX\tex\latex\base\inputenc.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\base\inputenc.sty
 INPUT C:\Program Files\MiKTeX\tex\generic\babel\babel.sty
@@ -112,11 +118,22 @@ INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\labx2074.tfm
 INPUT .\shurkalova_a_coursework.toc
 INPUT .\shurkalova_a_coursework.toc
 INPUT shurkalova_a_coursework.toc
-OUTPUT shurkalova_a_coursework.pdf
 INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT C:\Program Files\MiKTeX\tex\latex\cmap\ot1.cmap
+INPUT C:\Program Files\MiKTeX\tex\latex\cmap\ot1.cmap
+INPUT C:\Program Files\MiKTeX\tex\latex\cmap\ot1.cmap
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\mmap\oml.cmap
+INPUT C:\Program Files\MiKTeX\tex\latex\mmap\oml.cmap
+INPUT C:\Program Files\MiKTeX\tex\latex\mmap\oml.cmap
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\mmap\oms.cmap
+INPUT C:\Program Files\MiKTeX\tex\latex\mmap\oms.cmap
+INPUT C:\Program Files\MiKTeX\tex\latex\mmap\oms.cmap
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\mmap\omx.cmap
+INPUT C:\Program Files\MiKTeX\tex\latex\mmap\omx.cmap
+INPUT C:\Program Files\MiKTeX\tex\latex\mmap\omx.cmap
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsa.fd
 INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsa.fd
